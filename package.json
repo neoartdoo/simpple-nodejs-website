@@ -1,0 +1,23 @@
+{
+  "name": "simpple-nodejs-website",
+  "version": "1.0.0",
+  "description": "This is for beginer",
+  "main": "app.js",
+  "scripts": {
+    "test": "#"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoartdoo/simpple-nodejs-website.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Java"
+  ],
+  "author": "Neoart Doo, Blace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neoartdoo/simpple-nodejs-website/issues"
+  },
+  "homepage": "https://github.com/neoartdoo/simpple-nodejs-website#readme"
+}
